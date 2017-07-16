@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+.alert-danger-msg{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background: #E94B35;
+	color: #FFF;
+	text-align: center;
+}
+.alert-success-msg{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background: #25BFA9;
+	color: #FFF;
+	text-align: center;
+}
